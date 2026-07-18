@@ -3,7 +3,7 @@
 Simple server-side Fabric mod for **Minecraft 1.21.10**.
 
 **Author:** JaraSG2  
-**Mod version:** 1.0.0
+**Mod version:** 1.0.1
 
 ## English
 
