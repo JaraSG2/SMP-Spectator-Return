@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "smpspectatorreturn",
+  "version": "${version}",
+  "name": "SMP Spectator Return",
+  "description": "Server-side command for entering Spectator mode and returning to the saved location.",
+  "authors": [
+    "JaraSG2"
+  ],
+  "contact": {
+    "homepage": "https://github.com/JaraSG2/SMP-Spectator-Return",
+    "sources": "https://github.com/JaraSG2/SMP-Spectator-Return",
+    "issues": "https://github.com/JaraSG2/SMP-Spectator-Return/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/smpspectatorreturn/icon.png",
+  "environment": "server",
+  "entrypoints": {
+    "main": [
+      "eu.jarasg2.smpspectatorreturn.SmpSpectatorReturn"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.17.0",
+    "minecraft": "1.21.10",
+    "fabric-api": "*",
+    "java": ">=21"
+  }
+}
