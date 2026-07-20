@@ -10,6 +10,14 @@ Simple server-side Fabric mod for **Minecraft 1.21.10**.
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Server](https://img.shields.io/badge/Server-Side-success)
 
+## Requirements
+
+- Minecraft 1.21.10
+- Fabric Loader
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+
+> **Fabric API is required for this mod.**
+
 ## English
 
 ### Features
