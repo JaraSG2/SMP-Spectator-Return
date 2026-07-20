@@ -5,6 +5,11 @@ Simple server-side Fabric mod for **Minecraft 1.21.10**.
 **Author:** JaraSG2  
 **Mod version:** 1.0.1
 
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.10-green)
+![Fabric](https://img.shields.io/badge/Loader-Fabric-orange)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Server](https://img.shields.io/badge/Server-Side-success)
+
 ## English
 
 ### Features
