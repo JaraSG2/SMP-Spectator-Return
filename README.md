@@ -2,6 +2,8 @@
 
 Simple server-side Fabric mod for **Minecraft 1.21.10**.
 
+![SMP Spectator Return Demo](assets/demo.gif)
+
 **Author:** JaraSG2  
 **Mod version:** 1.0.1
 
