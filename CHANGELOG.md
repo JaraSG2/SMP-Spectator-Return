@@ -1,17 +1,24 @@
 # Changelog
 
-## 1.0.1
+All notable changes to this project will be documented in this file.
 
-- Fixed Minecraft 1.21.10 Yarn API compatibility.
-- Fixed world and server access in the `/s` command.
-- Fixed game mode serialization.
-- Fixed cross-dimension teleport call.
+## [1.0.1] - 2026-07-18
 
-## 1.0.0
+### Fixed
+- Fixed compatibility with Minecraft 1.21.10 Yarn mappings.
+- Fixed the `/s` command accessing the server and world.
+- Fixed game mode serialization when saving return data.
+- Fixed returning from Spectator mode across dimensions.
 
+### Changed
+- Updated the Gradle Wrapper to the official Gradle 8.14.3 distribution.
+
+## [1.0.0] - 2026-07-18
+
+### Added
 - Initial release.
-- Added the `/s` spectator toggle command.
-- Added persistent return positions.
-- Added Creative and Adventure mode restrictions.
-- Added per-world configuration.
-- Added `/s reload` for server operators.
+- Added the `/s` command to toggle Spectator mode.
+- Added persistent return positions that survive server restarts.
+- Added optional Creative and Adventure mode restrictions.
+- Added per-world configuration support.
+- Added the `/s reload` command for server operators.
